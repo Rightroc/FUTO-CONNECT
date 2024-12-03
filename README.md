@@ -45,12 +45,23 @@ The project follows a simple structure:
 Contributing
 We welcome contributions to Futo Connect! If you find a bug or want to add a new feature, feel free to fork the repository and create a pull request.
 
-Steps to contribute:
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add new feature').
-Push to your branch (git push origin feature-branch).
-Create a pull request.
+**FUTO CONNECT FRONTEND**
+MEMBERS AND THERE TASKS
+
+>>> **RIGHTEOUSNESS CHUKWUNEKE** (Front-end)
+He built thw landing page using HTML and CSS.
+
+>>> **UGWUJA MMESOMA ABIGIRL** (Front-end)
+She built 3 pages linking to the landing page.
+
+>>>**UCHECHUKWU CHIDERA PROMISE** (Front-end)
+He built the signup and loging page.
+
+>>>**EBOS KIZITI SUNDAY** (Front-end)
+He created the ReadMe and Documentation to the ptoject
+
+>>>**OCHULO STEPHEN CHIBUEZE** (Mobile development)
+He created the mobile view to the project.
 
 **License**
 This project is open-source
