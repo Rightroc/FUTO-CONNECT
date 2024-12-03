@@ -62,4 +62,31 @@
   font-size: 16px;
 }
 
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .wrapper {
+    width: 90%; /* Adjust container width for smaller screens */
+  }
+
+  .title-1 {
+    font-size: 40px; /* Further reduction for smaller devices */
+  }
+
+  .title-3 {
+    font-size: 18px;
+  }
+
+  .title-4 {
+    font-size: 12px;
+  }
+
+  /* Buttons */
+  .btn_primary,
+  .btn_secondary,
+  .btn_secondary_outline {
+    padding: 0.6rem 1.5rem; /* Compact padding */
+    font-size: 1rem; /* Smaller font size for buttons */
+  }
+}
+
 /*Common css end*/
