@@ -1,4 +1,4 @@
-/*Section 4 css start*/
+/*Section 5 css start*/
 .section_5 {
   margin-top: 100px;
   display: flex;
@@ -111,4 +111,44 @@
   margin-bottom: 30px;
 }
 
-/*Section 4 css end*/
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .section_5 {
+    flex-direction: column;
+    margin-top: 6rem; 
+  }
+
+  .section_5_left, .section_5_right {
+    width: 100%;
+    padding: 2rem;
+  }
+
+  .section_5_left_info_title {
+    font-size: 5.6rem; 
+  }
+
+  .section_5_left_info_item {
+    padding-right: 0;
+  }
+
+  .section_5_left_img {
+    position: relative;
+    transform: translate(0, 0);
+    height: 50rem; 
+    width: 80%;
+  }
+
+  .section_5_right_info h3 {
+    font-size: 3rem; 
+  }
+
+  .section_5_right_info_item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .section_5_right_info_item img {
+    height: 2.5rem;
+  }
+}
+/*Section 5 css end*/
