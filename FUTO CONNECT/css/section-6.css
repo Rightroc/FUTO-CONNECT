@@ -1,4 +1,4 @@
-/*Section 5 css start*/
+/*Section 6 css start*/
 .section_6 {
   display: flex;
   margin-top: 50px;
@@ -85,4 +85,42 @@
   background-color: var(--grey-light);
 }
 
-/*Section 5 css end*/
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .section_6 {
+    flex-direction: column;
+    margin-top: 4rem;
+  }
+
+  .section_6_left, .section_6_right {
+    width: 100%;
+    padding: 2rem;
+  }
+
+  .section_6_left img {
+    height: 25rem; 
+  }
+
+  .section_6_right_top h3 {
+    font-size: 2rem;
+  }
+
+  .section_6_right_top h1 {
+    font-size: 5.6rem;
+  }
+
+  .section_6_right_top p {
+    font-size: 1.6rem;
+  }
+
+  .section_6_right_middle p {
+    font-size: 1.6rem;
+  }
+
+  .section_6_right_bottom button {
+    padding: 1rem 2rem;
+    font-size: 1.6rem;
+  }
+}
+
+/*Section 6 css end*/
