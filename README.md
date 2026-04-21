@@ -48,20 +48,7 @@ We welcome contributions to Futo Connect! If you find a bug or want to add a new
 **FUTO CONNECT FRONTEND**
 MEMBERS AND THERE TASKS
 
->>> **RIGHTEOUSNESS CHUKWUNEKE** (Front-end)
-He built thw landing page using HTML and CSS.
-
->>> **UGWUJA MMESOMA ABIGIRL** (Front-end)
-She built 3 pages linking to the landing page.
-
->>>**UCHECHUKWU CHIDERA PROMISE** (Front-end)
-He built the signup and loging page.
-
->>>**EBOS KIZITI SUNDAY** (Front-end)
-He created the ReadMe and Documentation to the ptoject
-
->>>**OCHULO STEPHEN CHIBUEZE** (Mobile development)
-He created the mobile view to the project.
+>>> **RIGHTEOUSNESS CHUKWUNEKE** (Fullstack dev)
 
 **License**
 This project is open-source
