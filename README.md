@@ -45,9 +45,6 @@ The project follows a simple structure:
 Contributing
 We welcome contributions to Futo Connect! If you find a bug or want to add a new feature, feel free to fork the repository and create a pull request.
 
-**FUTO CONNECT FRONTEND**
-MEMBERS AND THERE TASKS
-
 >>> **RIGHTEOUSNESS CHUKWUNEKE** (Fullstack dev)
 
 **License**
